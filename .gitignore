@@ -1,0 +1,24 @@
+# Etc
+pids
+*.pid
+*.seed
+lib-cov
+coverage
+.nyc_output
+.grunt
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node
+.lock-wscript
+build/Release
+node_modules
+jspm_packages
+.npm
+.node_repl_history
+
+# App
+dist
